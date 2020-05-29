@@ -1,4 +1,4 @@
-# 3DG_TdPiED
+# Omar Giménez - 3DG_TdPiED
 
 
 ## p1
