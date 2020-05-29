@@ -15,7 +15,7 @@ Text amb rotació. ''volta'' [gif](p03.gif) / [mp4](p03.mp4)
 
 ## p4
 
-Textures aplicades al moviment de ''full de paper'' [gif](p03.gif) / [mp4](p03.mp4)
+Textures aplicades al moviment de ''full de paper'' [gif](p04.gif) / [mp4](p04.mp4)
 
 ## p5
 
@@ -29,7 +29,7 @@ Vortex ''Big mouth'' [gif](p07.gif) / [mp4](p07.mp4)
 
 ## p8
 
-Coronavirus Festival [jpg](p08.jpg) [gif](p08.gif) / [mp4](p08.mp4)
+Coronavirus Festival [jpg](p08.jpg) / [gif](p08.gif) / [mp4](p08.mp4)
 
 ## p9
 
