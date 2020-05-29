@@ -3,36 +3,46 @@
 
 ## p1
 
-Rodet en text. [''Quan tu vas ella torna''](p1.gif)
+Rodet en text. ''Quan tu vas ella torna'' [gif](p01.gif) / [mp4](p01.mp4)
 
 ## p2
 
-Text extruit amb forma dona. [''Llebeig''](p2.gif)
+Text extruit amb forma dona. ''Aphex Twin'' [gif](p02.gif) / [mp4](p02.mp4)
 
 ## p3
 
-Text amb rotació. [''volta''](p3.gif)
+Text amb rotació. ''volta'' [gif](p03.gif) / [mp4](p03.mp4)
 
 ## p4
 
-Textures aplicades al moviment de [''full de paper''](p4.gif).
+Textures aplicades al moviment de ''full de paper'' [gif](p03.gif) / [mp4](p03.mp4)
 
 ## p5
 
-Aplicació de textures en cares diferents del cub. Rotació i bucle. [''No és no''](p5.gif), [mòdul](p5_modul.gif)
+Aplicació de textures en cares diferents del cub. Rotació i bucle. ''No és no'' [gif](p05.gif) / [mp4](p05.mp4) / [mòdul](p05mod.gif)
 
 ## p6
 
-Realitzant un mupi animat anunciant els ponents que han vingut al llarg del 2019/20 a l'EASDAlcoi.
+## p7
 
-Tamany: 1080 x 1920
+Vortex ''Big mouth'' [gif](p07.gif) / [mp4](p07.mp4)
 
-Text del mupi: [Llistat dels noms](p6_txt.md).
+## p8
 
-Referent. [Mario Cano, Festival de Jazz Madrid, 2018](https://www.instagram.com/p/BpR1XPPFdwF/)
+Coronavirus Festival [jpg](p08.jpg) [gif](p08.gif) / [mp4](p08.mp4)
 
-Per saber més entrevista a [Mario Cano amb referents](http://etsididesign.com/entrevista-mario-cano/)
+## p9
 
-[Material de tot el projecte](p6_dos.zip)
+Escenari [jpg](p09.jpg)
+
+##  p10
+
+Lissitzky [Proun](p10.jpg)
+
+##  p11
+Personatge  [Queradilla](p11.jpg)
+
+
+
 
 
